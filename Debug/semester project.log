@@ -1,0 +1,6 @@
+﻿  Source.cpp
+C:\Users\User\OneDrive\Desktop\New folder\New folder\semester project\semester project\Source.cpp(14,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\User\OneDrive\Desktop\New folder\New folder\semester project\semester project\Source.cpp(92,6): warning C4101: 'i': unreferenced local variable
+C:\Users\User\OneDrive\Desktop\New folder\New folder\semester project\semester project\Source.cpp(101,6): warning C4101: 'h': unreferenced local variable
+C:\Users\User\OneDrive\Desktop\New folder\New folder\semester project\semester project\Source.cpp(104,6): warning C4101: 'r': unreferenced local variable
+  semester project.vcxproj -> C:\Users\User\OneDrive\Desktop\New folder\New folder\semester project\Debug\semester project.exe
